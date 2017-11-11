@@ -1,6 +1,4 @@
-# Authentication service
-
-Boilerpate for react-redux
+# Boilerplate for react-redux
 
 ## Project setup
 
